@@ -1,26 +1,39 @@
-## Hi, I'm Shahd 🦉
+<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-A curious learner diving into the world of **software engineering**, strengthening my foundation to confidently tackle advanced technologies.🌱✨  
+<h3 align="center">
 
-### What I'm Up To  
-- 👩‍💻 Crafting small projects to sharpen my coding skills.
-- 📊 Exploring **Data Engineering** with a hands-on approach.  
-- 🌱 Committing to daily growth and sharpening my problem-solving skills.
+        <img src="https://emojis.slackmojis.com/emojis/images/1643515032/10623/cat_shelterin_youtube.png?1643515032" width="30" /> <samp>&gt; Hey There!, I am Shahd </samp>
+</h3>
+<h3 align="center">
+        <img src="https://emojis.slackmojis.com/emojis/images/1643515234/12518/kitty_chase_heart.gif?1643515234" width="83" />
+</h3>
+<p align="center">
+  <samp>
+    「 I'm an Aspiring Data Engineer from <b>Egypt</b> 」<br>
+    「 passionate about data-driven solutions that drive business impact </b>」
+  </samp>
 
-#### 💌 Excited to learn and grow together—whether through projects, feedback, or just a chat. I'm all ears👀.
 
-  <div align="left">
-  <a href="http://linkedin.com/in/shahd-hesham-320ba0246" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="27" height="21" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/1122358040268644362" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="27" height="21" alt="discord logo"  />
-  </a>
-  <a href="mailto:shahedhesham13@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="27" height="21" alt="gmail logo"  />
+</p>
+
+
+<br>
+
+[![NovyPro](https://img.shields.io/badge/My%20Portfolio%20on-NovyPro-blue)](https://my.novypro.com/shahd-hesham)
+
+### 🌟Certifications
+
+- [**Power BI Data Analyst Associate**](https://learn.microsoft.com/en-us/users/shahdhesham-2044/credentials/b535cf4e7632bb4a) – Microsoft
+
+
+### 🌱What I'm Up To
+- Working on deepening my understanding rather than just output.
+- Exploring **Data Engineering** concepts, tools, and workflows.
+
+
+#### 💌 Just here to grow, create, and connect—with code, ideas, and amazing people. come say hii 💌
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahdHesham13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="191" alt="languages graph"  />
-</div>
-
-###  
+<a href="http://linkedin.com/in/shahdhesham13" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="19" alt="linkedin logo"  />
+<a href="mailto:shahedhesham13@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="20" alt="gmail logo"/></a>
